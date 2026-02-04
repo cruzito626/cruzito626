@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edson Alexis Cruz Carballo
+# 👋 Hi, I'm Edson Cruz
 
 ## 💻 Backend / Full‑Stack Web Developer
 
